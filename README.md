@@ -47,9 +47,10 @@
        <li> Extract the file and copy the folder</li>
        <li>Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/Html)</li>
        <li> Open PHPMyAdmin (http://localhost/phpmyadmin)</li>
-       <li> Create a database</li>
+       <li> Create a new datbase with 'food_waste_db'</li>
        <li>Import demo.sql file(inside database folder)</li>
        <li> Run the script http://localhost/folderName </li> </ol>
+       <li> If erorr occours in line number 16 or 20 like that. then open that file in htdocs folder in any editor replace with name 'food_waste_db' </li>
 
 <h2>view project :</h2>
 <p>After opening demok link you need to press button  "DONATE FOOD"</p>
