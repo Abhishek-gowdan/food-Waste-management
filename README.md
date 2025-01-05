@@ -52,6 +52,6 @@
        <li> Run the script http://localhost/folderName </li> </ol>
 
 <h2>view project :</h2>
-
+<p>After opening demok link you need to press button  "DONATE FOOD"</p>
 <a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
 
